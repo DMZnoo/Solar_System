@@ -27,3 +27,8 @@ s : move backwards <br />
 -> : move right <br />
 
 number 2: track closest planet
+
+## Screen Shots
+![Alt text](https://github.com/DMZnoo/Solar_System/blob/master/view1.png?raw=true "View 1")
+![Alt text](https://github.com/DMZnoo/Solar_System/blob/master/view1.png?raw=true "View 2")
+![Alt text](https://github.com/DMZnoo/Solar_System/blob/master/view1.png?raw=true "Earth View")
