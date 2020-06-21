@@ -8,8 +8,8 @@
 
 #include "Application.hpp"
 
-//Replace with your root to the source folder
-std::string ROOT = "/Users/daniel/Downloads/opengl_portfolio/Source/Resources/";
+//Replace '{ROOT}' with your root to the source folder
+std::string ROOT = "{ROOT}/Solar_System/Source/Resources";
 const float PI = acos(-1);
 bool LOCK_ON_OBJECT = false;
 
