@@ -30,5 +30,5 @@ number 2: track closest planet
 
 ## Screen Shots
 ![Alt text](https://github.com/DMZnoo/Solar_System/blob/master/view1.png?raw=true "View 1")
-![Alt text](https://github.com/DMZnoo/Solar_System/blob/master/view1.png?raw=true "View 2")
-![Alt text](https://github.com/DMZnoo/Solar_System/blob/master/view1.png?raw=true "Earth View")
+![Alt text](https://github.com/DMZnoo/Solar_System/blob/master/view2.png?raw=true "View 2")
+![Alt text](https://github.com/DMZnoo/Solar_System/blob/master/view3.png?raw=true "Earth View")
