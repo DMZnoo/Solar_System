@@ -10,7 +10,6 @@
 #include <GLFW/glfw3.h>
 #include "Control/Camera.hpp"
 #include "Shader/Shader.hpp"
-#include "Renderer/SkyRenderer.hpp"
 #include "Renderer/ModelRenderer.hpp"
 #include "Renderer/BatchRenderer.hpp"
 class Application

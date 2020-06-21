@@ -1,12 +1,12 @@
 //
-//  ParticleRenderer.hpp
+//  BatchRenderer.hpp
 //  Portfolio_Jinwoo_Lee
 //
 //  Created by JINWOO LEE on 13/06/20.
 //
 
-#ifndef ParticleRenderer_hpp
-#define ParticleRenderer_hpp
+#ifndef BatchRenderer_hpp
+#define BatchRendererr_hpp
 #include "../Model/BatchModel.hpp"
 #include "../Control/Camera.hpp"
 #include "../Shader/ModelShader.hpp"
@@ -35,4 +35,4 @@ private:
 
 };
 
-#endif /* ParticleRenderer_hpp */
+#endif /* BatchRenderer_hpp */
