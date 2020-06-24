@@ -9,7 +9,7 @@
 #include "Application.hpp"
 
 //Replace '{ROOT}' with your root to the source folder
-std::string ROOT = "{ROOT}/Solar_System/Source/Resources";
+std::string ROOT = "{ROOT}/Solar_System/Source/Resources/";
 const float PI = acos(-1);
 bool LOCK_ON_OBJECT = false;
 
